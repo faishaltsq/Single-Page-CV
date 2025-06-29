@@ -1,0 +1,21 @@
+
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.Subjudul {
+    color: Green;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.pendidikan {
+    color: Blue;
+    margin-top: 10px;
+}
+
+
