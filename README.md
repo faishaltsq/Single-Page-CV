@@ -1,4 +1,5 @@
 ﻿# Single-Page-CV
 
  
-https://roadmap.sh/projects/single-page-cv
+
+https://github.com/faishaltsq/Single-Page-CV.git
